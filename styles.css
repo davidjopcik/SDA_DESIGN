@@ -1,0 +1,30 @@
+.Rectangle {
+    width: 1440px;
+    height: 720px;
+    flex-grow: 0;
+    margin: 0 0 302px;
+    padding: 24px 134px 98px 135px;
+    background-image: linear-gradient(to bottom, #08b4e4, #0b74b2 42%, #0e418a 100%), linear-gradient(to bottom, #e4e4e4, #e4e4e4);
+  }
+
+.Path {
+    width: 50px;
+    height: 39px;
+    flex-grow: 0;
+    background-color: #fff;
+  }
+
+  .Le-Beauty {
+    width: 123px;
+    height: 38px;
+    margin: 1px 0 1px 16px;
+    font-family: Rubik;
+    font-size: 24px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.58;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+  }
