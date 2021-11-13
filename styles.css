@@ -7,24 +7,11 @@
     background-image: linear-gradient(to bottom, #08b4e4, #0b74b2 42%, #0e418a 100%), linear-gradient(to bottom, #e4e4e4, #e4e4e4);
   }
 
-.Path {
-    width: 50px;
-    height: 39px;
+img.Img {
+    width: 600px;
+    height: 600px;
     flex-grow: 0;
-    background-color: #fff;
+    margin: 522px 69px 125px 135px;
+    object-fit: contain;
   }
-
-  .Le-Beauty {
-    width: 123px;
-    height: 38px;
-    margin: 1px 0 1px 16px;
-    font-family: Rubik;
-    font-size: 24px;
-    font-weight: 500;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.58;
-    letter-spacing: normal;
-    text-align: left;
-    color: #fff;
-  }
+  
